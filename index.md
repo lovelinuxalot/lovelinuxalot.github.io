@@ -1,4 +1,6 @@
 ---
 layout: home
+title: "Home"
+list_title: Latest Posts
+permalink: /
 ---
-This is my Home Page. MY content will go here
